@@ -1,0 +1,288 @@
+Learn more: www.id.iit.edu
+
+is a center for advanced study in human-centered innovation.
+
+Founded as the New Bauhaus in 1937, Chicago’s Institute of Design, IIT
+
+ILLINOIS INSTITUTE OF TECHNOLOGY
+
+Institute of Design
+
+First Things First
+
+Charles L. Owen
+
+February, 2007
+
+Charles L. Owen First Things First
+
+A web article written for:
+The Business Process Management Institute
+Web site: www.BPMInstitute.org
+Section: Innovation; Topic: Papers; Subtopic: Articles
+February 16, 2007
+Keywords: innovation, planning, development, concept, design
+
+Institute of Design, Illinois Institute of Technology
+First Things First
+/ Charles L. Owen / February, 2007
+
+2
+
+Charles L. Owen First Things First
+
+A major flaw in the advanced
+development process is the failure of organizations to explore
+adequately the concepts they
+are about to develop. Development begins with an alreadyformed concept and proceeds
+to the determination of how to
+realize it. In a truly competitive
+global business environment,
+this won’t be good enough. Organizations will have to routinely obsolete their own
+products to remain competitive
+– and they will have to do so
+with market-leading new concepts. To achieve this, it will be
+necessary to reform the development process; a part of the
+answer is a two-step process in
+which the exploration of concept is given full attention. The
+goal is concepts of reliably
+high quality, generated predictably as they are needed.
+
+Why is it that the "what" part of new product development gets
+such scant attention in the development process? What a new
+product should be is a question seldom seriously explored. In the
+world of advanced planning, the notion of "concept" is pretty narrowly constrained. True development of a new concept more often
+than not is ignored in favor of detailed investigation of variations
+on already-formed ideas introduced intact at the beginning of the
+process! The "concept" in this all-too-common model is most likely (1) a designated evolutionary replacement for a product already
+in production, (2) a preconceived idea that has occurred to a senior executive, or (3) a competitor’s new offering whose qualities
+must be met or exceeded. What happened to exploration and innovation at the concept level?
+Competition
+I am reminded of the old saw from operations research. A crack
+mountain climbing team is assembled to break the world’s record
+for climbing the highest mountain. With speed and efficiency they
+quickly reach the top, only to gaze on a nearby higher mountain.
+Moral: find the right mountain before you climb.
+In a relaxed world, the team could move to the higher mountain and repeat their skillful climb. But in a highly competitive
+world, another team might have already found that mountain. The
+situation isn’t much different in the business world; there is little
+time for conceptual mistakes.
+
+Institute of Design, Illinois Institute of Technology http://www.id.iit.edu
+
+Then
+
+Home
+Markets
+
+Foreign Markets
+
+Local
+Company
+
+Foreign
+Company
+
+Local
+Competitor
+
+Foreign
+Company
+
+Now
+
+Home
+Markets
+
+Foreign Markets
+
+Figure 1 Competition Has Increased Multifold
+
+Competition in most business fields has increased multifold in the
+years since World War II and the cold war. In the good old days,
+
+February, 2007
+
+Abstract
+
+3
+
+Charles L. Owen First Things First
+
+The Development Process
+I think the answer lies in rethinking how efforts
+are distributed in the development process. If the
+process is viewed as what takes place from initialization until achievement of a new product
+specification, it usually now is a one-step process
+in which the focus is the realization of a given
+concept. The range of exploration is limited by
+the commitment to concept, and the primary development activity is "giving form". Not unexpectedly, the innovations produced are at the
+design detail and craftsmanship levels (see the
+Quality Pyramid in my article, "Another Look at
+Quality"). Innovative improvements in function,
+human factors and cultural fit are examples of
+the former; innovations to improve quality control in production are examples of the latter.
+Reflecting on the experience of the mountain
+climbers, development should be redefined as a
+two-step process in which a separate, front-end
+innovation effort is devoted to finding, exploring
+and developing a concept (Figure 2). The concept in this model is a result—the end product of
+a dedicated planning phase of the process. It is,
+in essence, a highly refined charter or project
+brief for a follow-on team that will conduct a
+
+second designing phase of the development process.
+
+One-step Development
+Exploration
+
+unknown
+
+designing
+
+How
+
+known
+
+to make it
+
+Concept
+
+Specification
+
+time
+
+Two-step Development
+unknown
+
+planning
+
+Exploration
+
+markets were relatively isolated and discrete. If
+your company was in the U.S., your markets
+were probably there too. and your competition
+was most likely similarly contained. In our global economy, a company faces competition from
+abroad in its home markets and probably has foreign branches of its own competing with foreign
+companies in their home markets. And all this is
+in addition to competition at home and now
+abroad from local companies also with foreign
+branches (Figure 1). The growth in competition
+has not been linear.
+Coupled with the dramatic increases in the
+capabilities of information technologies, this has
+put severe pressure on the development process.
+To stay competitive, a company must now upgrade its product offerings at a frequency that
+mandates almost continuous change. And that
+doesn’t guarantee success. An obvious question
+is, what can be done to improve product development effectiveness? Or better stated, how can
+innovation be applied to the innovation process
+itself to create products with greater return over
+a longer life cycle?
+
+Institute of Design, Illinois Institute of Technology http://www.id.iit.edu
+
+4
+
+designing
+
+What
+
+How
+
+to make
+
+known
+
+time
+
+to make it
+
+Concept
+
+Specification
+
+Figure 2 First Things First: Concept Before Details
+
+Concept vs Details
+This model forces concentration on innovation at
+the concept level where ideas can range broadly
+and the revolutionary may be as likely as the evolutionary. In an environment where new ideas
+are expected and sought out, an innovative concept is much more competitive than innovative
+details. Witness Apple’s new iPhone, or from a
+longer perspective, the Sony Walkman.
+A good concept, however, doesn’t have to be
+revolutionary. In fact, it is possible to get so far
+in front of potential adopters that the concept
+fails. The Xerox Star system that preceded
+Apple’s Macintosh was too far ahead of its time.
+It took Steve Jobs’ clear recognition of its value
+as a concept and clearer view of how to develop
+it to turn it into the interface system we all use
+in various versions today.
+So what makes a great concept? A great concept is complete; it has integrity. It also may be
+surprising—better if it is. But for sure, it fits
+needs and aspirations like a glove.
+Needs and aspirations infer users, and meeting their expectations is a major part of what
+builds integrity into a concept. We all hear about
+designing for the "customer" and meeting the
+needs of the "end user", but these users are but
+two of many whose needs should be considered.
+The customer is the buyer; the end user is the
+operator. Meeting the needs of the user means
+
+Charles L. Owen First Things First
+
+Development for Today
+
+Institute of Design, Illinois Institute of Technology http://www.id.iit.edu
+
+So, first things first. A development process for
+today needs first to put serious effort into finding
+good concepts to develop. Back to the
+mountaineers—finding the right mountain is a
+prerequisite to winning the mountain climbing
+award. The two-step process provides a much
+more reliable means for establishing a concept
+worth developing. At the concept level, exploration can be broad and the costs of changing direction are miniscule in comparison with course
+changes later in the development process.
+Development time need not be extended, either. Beginning with a concept carefully thought
+
+out can be a time savior downstream. Schedule
+extensions not uncommonly are traceable to mistakes resulting from uncertainties in how an initial concept should be interpreted. Combining a
+conceptual planning phase with a detail designing phase shortened because it doesn’t have to
+reinterpret and redevelop the concept typically
+means no significant increase in development
+time. In practice, it may actually shorten the time
+because there are so many fewer opportunities
+for wrong turns.
+Using Structured Planning, a process for concept development, graduate student teams at the
+Institute of Design routinely produce innovative
+system concepts in fifteen weeks. My experience
+in industry is that the process takes longer—
+more like six months. The difference occurs because corporate planning team members usually
+are on loan from their home departments and
+have responsibilities there that continue to require their time.
+Ultimately, the message is: when the competition is tough and competitors are numerous, a
+company may well have to obsolete its own products. To do that successfully, it will have to
+have concepts of reliably high quality ready predictably when they are needed. Reliability and
+predictability are not the hallmarks of seat-ofthe-pants innovation. Getting the concepts right
+and on time will require focused concept development, free ranging planning teams, and a planning process tailored to the job.
+
+February, 2007
+
+meeting the needs of these users—and: the user
+who ships the product, sells it, cleans it, maintains it, repairs it, adapts it, recycles it and retires it, to name just some. To each the product
+looks uniquely different.
+Great concepts usually are also systemic in
+that, besides meeting the needs of multiple users,
+they have multiple ways of operating, embrace
+multiple component elements, draw on multiple
+functions, services, policies and organizational
+constructs, and generally perform as you might
+expect a system to perform. Systemic concepts
+are hard to copy simply because they are complex. And this translates to longer life and greater return in a highly competitive market.
+
+5
+
+

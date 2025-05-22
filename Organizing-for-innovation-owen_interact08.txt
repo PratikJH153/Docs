@@ -1,0 +1,386 @@
+Learn more: www.id.iit.edu
+
+is a center for advanced study in human-centered innovation.
+
+Founded as the New Bauhaus in 1937, Chicago’s Institute of Design, IIT
+
+ILLINOIS INSTITUTE OF TECHNOLOGY
+
+Institute of Design
+
+Organizing for Innovation
+
+Charles L. Owen
+
+November, 2008
+
+Charles L. Owen Organizing for Innovation
+
+A web article written for:
+The Business Process Management Institute
+Web site: www.BPMInstitute.org
+Section: Innovation; Topic: Papers; Subtopic: Articles
+November, 2008
+Keywords: innovation, planning, structure, relationships, design
+
+Previous articles in the series:
+Design Thinking: Driving Innovation, September 2006
+Another Look at Quality, December 2006
+First Things First, February 2007
+Reforming the Development Process, May 2007
+Goals and Definitions, July 2007
+Covering User Needs, November 2007
+Insight and Ideas, February 2008
+Capturing Ideas, April 2008
+Using the Tools of Structure June 2008
+
+Institute of Design, Illinois Institute of Technology
+Organizing for Innovation
+/ Charles L. Owen / November, 2008
+
+2
+
+Charles L. Owen Organizing for Innovation
+
+Information is almost always
+organized categorically. Characters for classification are abstracted from intrinsic qualities
+of the information, and information elements are associated
+by their likeness, or similarity,
+on these characters.
+For innovation, this kind of
+organization is not appropriate.
+Creative thinking thrives on the
+imaginative leaps triggered by
+counterintuitive juxtapositions
+of information. Information derived and organized categorically lacks these juxtapositions.
+For creative synthesis, a new
+kind of measure is necessary,
+along with appropriate forms
+for the information elements to
+be organized and the discrimination variables to do the organizing.
+An Interaction Measure is
+presented that associates Functions, as the information elements, using Solution Elements
+(ideas) as extrinsically pertinent discrimination variables.
+The interaction measure associates Functions by establishing
+reinforcement where Solution
+Elements support fulfillment of
+two Functions, or conflict
+where Solution Elements support fulfillment of one Function, but obstruct fulfillment of
+the other.
+
+How should information be organized? Better yet, how should it
+be organized for innovation?
+The conventional way to organize almost anything is to look
+for similarities and put like items together in categories. Sometimes the categories are predefined, and the likenesses among
+items are established by reference to the characteristics of the category. Sometimes (as in numerical taxonomy) the categories are
+post-defined by the natural grouping of like objects based on selected intrinsic characteristics. The characteristics, or characters,
+become variables, attributes or "keys" for classification. A number
+of measures of similarity have been developed for clustering subjects in this way.
+A somewhat different, but closely related problem, is: How
+can information most easily be found? Here, the value of categories is apparent; if it is known how something is likely to be classified, the item can be retrieved readily by looking through the
+category. Keywords help to navigate the categories.
+Surprisingly, the problem that is seldom addressed is whether
+organization by categories of intrinsic likeness is the best way to
+deal with a particular kind of information! People use information
+in different ways. For those whose job it is to plan, design and
+invent, the kind of information needed at the moment isn’t always
+so obvious. Interesting results often come from a process that is
+more serendipitous than algorithmic because counterintuitive juxtapositions often lead to creative solutions. Seeing the right things
+together sparks innovation.
+To arrive at a model that will serve these users well, three aspects of information structuring need to be reconsidered. First, the
+means of association—what kind of measure of association should
+be used to put elements of information together optimally for innovation? second, the form of information—what form should information elements take to be most useful in the conceptual
+development process? and third, what kinds of characteristics or
+discriminants should be used to create the organization? A good
+answer for the first question would allow information to be organized in a way natural to the inventing process. A good answer for
+the second would establish a format for describing information elements uniformly. And a good answer for the third would provide
+a sound basis for creative association.
+A Special Measure of Association
+Considering first the problem of association, the objective should
+be to link information elements, as subjects, in such a way that
+considering one leads the planner to another that he or she should
+consider at the same time. This should not come out of some intrinsic likeness possessed by the subjects, but rather from meaningful, important factors—probably extrinsic—that are relevant to
+the design process.
+The distinction is subtle. An example from nature will help to
+get started: a conventional measure of association like similarity
+would link monkeys to monkeys and parrots to parrots in the
+world of animals. A biologist would not expect to find a parrot to
+
+November, 2008
+
+Institute of Design, Illinois Institute of Technology http://www.id.iit.edu
+
+Abstract
+
+3
+
+Charles L. Owen Organizing for Innovation
+
+be similar to a monkey because the underlying
+mechanism of association, biological similarity,
+works on the principle that living things are related that have like intrinsic physical characteristics. On the other hand, a planner concerned with
+the design of a zoo might see particular species
+of monkeys and parrots naturally associated because they share the same habitat or because
+they eat the same foods. In the first case, the association is built around likenesses inherent in
+characteristics intrinsically possessed by the subjects; in the second it derives from extrinsic
+characteristics otherwise unassociated with the
+subjects except for the analyst’s purposeful selection.
+From this idea, that two subjects can be associated on the basis of how they are related to external factors or entities, a special measure of
+interaction can be constructed. The measure can
+recognize not only agreements (e.g., that certain
+species of both monkeys and parrots favor rain
+forest environment), but disagreements (e.g., that
+a parrot species and a monkey species might
+react oppositely to a food; edible and desirable
+for one, sickening for the other), and even independence (e.g., that a parrot species might use a
+certain nesting material irrelevant to a monkey
+species that does not build nests). The measure
+has direct application to planning.
+Information Elements
+
+Institute of Design, Illinois Institute of Technology http://www.id.iit.edu
+
+4
+
+In my article, Covering User Needs, I showed
+how a design/planning problem can be modeled
+as a set of Functions specified systematically as
+a Function Structure is created. Described with
+verb phrases such as, "distribute heat evenly"
+and "recognize done condition" (from a cooking
+Activity within a food preparation Mode of a
+House of the Future Project), Functions such as
+these—in the hundreds—provide a simple form
+of criteria thoroughly covering a problem. Functions must be fulfilled well in a successful solution. The Function Structure, with its
+categorically derived major Modes of operation,
+Submodes, Activities and Functions would also
+seem to provide an ideal framework for creating
+and synthesizing ideas.
+It does not. While categorical derivation
+works beautifully for analysis, it creates an organization almost diametrically opposed to the
+needs of creative synthesis. Creativity thrives on
+unexpected juxtapositions. Categorical derivation
+
+maintains subject conformity. Continuing the
+housing analogy, a functional analysis of a house
+might have, among others, such major modes of
+operation as Water Management, Power Distribution and Space Creation. Functions concerning
+plumbing would show up under Water Management; functions concerning support of floors and
+ceilings would appear under Space Creation;
+those concerning electrical wiring would be
+under Power Distribution. The point is, nowhere
+would there be a place where they might show
+up together—and, thus, the idea that a structural
+column might also be a conduit for wiring and/or
+a vertical water channel, might never occur. Categorical derivation restricts Functions to silos of
+their own classification—fine for discovering
+them in the analysis process; dead wrong for responding to them in the synthesis process.
+Functions are excellent information elements
+to work with; a categorically derived Function
+Structure is not. A proper structure will use
+Functions as information elements, but will associate them on the basis that they ought to be
+considered together in the process of concept
+creation.
+Discrimination Variables
+If the intrinsic characteristics embodied in a categorical derivation are not ideal organizing agents
+for synthesis, what are? The example of the parrots and the monkeys suggests extrinsic characteristics of particular concern to the purpose of
+the project.
+Planning and designing projects are extensively concerned with ideas—solutions and partial solutions to individual problems. If
+ideas—call them Solution Elements—are used as
+the extrinsic variables for organization, then
+Functions will be linked on the basis of shared
+solution. Two Functions will interact if Solution
+Elements in enough numbers work for one as
+well as the other. Linkage built up like this puts
+Functions together that ought to be considered
+together because they have potential solutions in
+common—serendipitous association. In such a
+rich context of association, ideas can be modified
+and fine-tuned to a degree of elegance that marks
+solutions that solve multiple problems! An information structure built around this kind of association meets the needs of creative synthesis.
+Solution Elements as discrimination variables
+can do more. Just as disagreement could be reg-
+
+Charles L. Owen Organizing for Innovation
+
+5
+
+An Interaction Measure
+All ideas of interest to Function A
+
++
+
+Ideas
+that work
+(support)
+
+Ideas
+that cause
+problems
+(obstruct)
+
+0
+ideas that have
+nothing to do
+with the Function
+(no effect)
+Figure 1 Classification of Ideas for a Function
+
+Equivalent diagram rearranged
+to show proper nine regions
+
+Directly combined diagrams.
+(Flawed because too many [–,–] regions)
+
+A
+
+B
+
+A
+
+B
+
+,
++, 0
++, 0 +,
+,0
+
++,+
+
+,
+
++,
+
+,+ 0 ,+
+0,
+
+0 ,0
+
+Figure 2 Modifying a Venn Diagram to Obtain Proper Regional Representation
+
++,+
+
+,0
+
+0 ,+
+
+,+
+,
+
+0,
+
+0 ,0
+
+November, 2008
+
+Institute of Design, Illinois Institute of Technology http://www.id.iit.edu
+
+istered between monkey and parrot on the basis
+of food incompatibility, conflict can be recognized between Functions based on Solution Element incompatibility. When a Solution Element
+supports (helps to fulfill) one Function, but obstructs (makes it hard to fulfill) another Function, the two Functions are in conflict for that
+Solution Element. The planner needs to see these
+Functions together also—in order to avoid solutions that contribute to system problems. An idea
+that is so alluring that it can’t be passed by may
+also have negatives easily forgotten in the celebration of the positives. Recognition of the association as a conflict marks a Solution Element
+and associated Functions as a problem for consideration and adds to the strength of the bond
+between the Functions.
+
+Diagrams will help to explain the interaction
+concept. In Figure 1, a "function space" is described as a means to classify how all ideas in a
+project relate to a particular function; call it
+Function A. In the center region, are all the ideas
+that work for the function (i.e., support its fulfillment: +). In the outer ring are all the ideas that
+might cause a problem for the function (i.e., obstruct its fulfillment: –). Ideas that neither support nor obstruct Function A are outside the
+bull’s-eye diagram (i.e., no effect: 0).
+To build a model of interaction, the diagram
+for Function A’s classified ideas is combined
+with a similar diagram for the ideas of a second
+function, Function B. The diagram on the left of
+Figure 2 shows what happens if the two diagrams are simply overlapped like a Venn diagram. Because A and B each have three separate
+regions, the combined diagram should have 3 x
+3 or nine regions. It doesn’t. Because of the
+concentric-circle bull’s-eye geometry, there is an
+extra (–,–) region. Moving the central regions to
+the edges of the diagrams retains the integrity of
+the regions while making it possible to combine
+the diagrams into one with the proper nine regions. It is shown on the right. The +,–,0 labels,
+now used together, show how each region simultaneously classifies ideas for both functions, left
+symbol for their relation to Function A, right for
+Function B.
+In Figure 3, the diagram is explained as a
+model of interaction. Only five of the nine regions are applicable for the kind of interaction
+we want—many more kinds of interaction can be
+
+Charles L. Owen Organizing for Innovation
+
+The generalized model for Interaction:
+
+A
+
+Regions of Independence
+where Solution Elements (ideas) support one
+Function, but have no effect on the other
+
+B
++, 0
+
++,+
+
++,
+,0
+
+0 ,+
+Region of Reinforcement
+where Solution Elements support both Functions
+
+,+
+,
+0 ,0
+
+Regions of Conflict
+where Solution Elements support one Function,
+but obstruct the other
+
+0,
+
+Interaction =
+
+Reinforcement + Conflict
+Reinforcement + Conflict + Independence
+
+Figure 3 The Interaction Measure
+
+defined from this model, but the one pertinent to
+innovative planning and design focuses on the
+five regions that have at least one + sign in their
+labels. These are the only regions from which an
+idea might be selected for consideration in the
+little two-function project represented. Ideas in
+the other regions (which may be positive for
+other functions) would not be chosen because
+they either have nothing to do with the project at
+hand (0) or actively obstruct one or both of the
+functions (–).
+Intuitively, the amount of interaction between
+the two functions—the strength of association
+suggesting how strongly they should be considered together—is proportional to the number and
+value of the ideas in the three regions common
+to both functions, relative to the number and
+
+Institute of Design, Illinois Institute of Technology http://www.id.iit.edu
+
+6
+
+value of the ideas in all five regions. In Structured Planning, this measure is quantified to
+allow Solution Element ideas to be scored on a
+scale that registers positive support, negative obstruction or no effect for a function. A computer
+program, RELATN, calculates the amount of interaction for each pair of functions and creates a
+graph showing how functions are linked and,
+therefore, which should be considered together.
+For innovation, the measure uniquely associates the right kinds of information elements
+(Functions) using the right kind of discriminating
+variables (Solution Elements), while combining
+reinforcement as a value promoting multifunctional solution with conflict as a value detecting
+sources of potential solution failure.
+
+

@@ -1,0 +1,855 @@
+Reflections on Design: Process for Change
+Charles L. Owen
+A speech given at the Tenjin Barca Festival in Osaka, Japan on July 23, 1993
+
+Good morning. In the few minutes that I have, I would like to share with you some thoughts
+about the design process. As a speaker on an occasion like this, I feel that I can only tell
+you what you already know, but, perhaps, I can present some views differently enough that
+they may be thought-provoking.
+What I want to do is reflect upon how we, as designers, do what we do.
+Let me start by thinking about the place of
+design (Fig. 1).
+
+Context
+• Nature
+• Time and space
+
+Nature existed and evolved for millions of
+years without people. It is the ultimate
+context for what we do.
+
+Na t u re
+
+1
+
+19
+
+Man:
+The Naked Animal
+• Physical needs
+• Environmental harmony
+
+N a t u re
+
+2
+
+18
+
+As an evolved species, mankind is
+peculiarly unprepared to exist in the natural
+world (Fig. 2). Unless our most basic
+physical needs are met, we will die. And
+unless we can find ways to live in harmony
+with our environment, we will not be able to
+meet our physical needs.
+
+Man:
+The Social Animal
+
+Societ y
+
+• Social needs
+• Civil harmony
+• Physical needs
+• Environmental harmony
+
+N a t u re
+
+3
+
+Societ y
+
+• Protection
+• Insulation
+• Interaction
+• Transformation
+
+La
+
+nguage
+
+To o l s
+
+N a t u re
+
+16
+
+Products:
+Elements to enable
+• Protection
+• Insulation
+• Interaction
+• Transformation
+
+Societ y
+st it u t ion
+In nguag s
+e
+La
+
+To o l s
+Ar tifac ts
+Na t u re
+
+5
+
+15
+
+Creation Process
+Societ y
+
+• Research
+• Discovery
+• Problem solving
+• Invention
+• Development
+
+titutio
+Ins esig ns
+n
+D
+nguage
+La
+
+To o l s
+Design
+Ar tifac ts
+N a t u re
+
+6
+
+To be successful in an often very hostile
+environment, we have been gifted above
+other animals with two almost magical
+extensions: tools and language (Fig. 4).
+
+17
+
+Extensions:
+Means to create
+
+4
+
+But the environment for man is more than
+nature. Because we are social animals, we
+also must satisfy social needs and find ways
+to exist in social harmony (Fig. 3). Our true
+environment is both social and natural.
+
+14
+
+The ability to make sophisticated tools
+allows us to construct marvelous artifacts –
+from the simplest forms of body protection
+to the most complex vehicles and environmental structures (Fig. 5).
+The ability to use language allows us to
+communicate and to construct institutions to
+mediate our social intercourse.
+These form the interfaces between us and
+the natural and social environments.
+Design is the creation process through
+which we employ tools and language to
+invent artifacts and institutions (Fig. 6). As
+society has evolved, so has design. And it
+continues to evolve in complexity and
+capability as we learn and improve our
+design technology.
+
+I would like us to focus our attention on
+design as a process of creation (Fig. 7).
+
+Creation Process
+Societ y
+
+• Research
+• Discovery
+• Problem solving
+• Invention
+• Development
+
+titutio
+Ins esig ns
+n
+D
+nguage
+La
+
+Design is a time-dependent process (Fig. 8).
+It builds on the past, improving on previous
+ideas. It projects to the future, anticipating
+inevitable change. But it occupies the
+present; like matsuri, it exists between past
+and future.
+
+To o l s
+Design
+Ar tifac ts
+Na t u re
+
+13
+
+Design is also a structured process (Fig. 9).
+While its phases are not locked in rigid
+progression, it nearly always begins with
+analytic processes of search and understanding, and ends with synthetic processes
+of experimentation and invention.
+
+t
+
+7
+
+a
+
+s
+
+Creation Process
+
+P
+
+r
+
+e
+
+s
+
+e
+
+n
+
+t
+
+P
+
+• Employs time
+• Builds on the past
+• Projects the future
+• Occupies the present
+
+F
+
+u
+
+t
+
+u
+
+r
+
+e
+
+When the diagram is straightened out, it is
+easier to see a left analytic region and a
+right synthetic region. In the left region, the
+domain of analytic focus is the context of
+the design problem, spanning aspects of
+past and present. In the right region, the
+domain of synthetic focus is the artifacts
+and institutions to be designed.
+
+8
+
+12
+
+A
+na
+
+The simplest and oldest way of creating is
+"form making", the direct translation of
+contextual understanding to artifact or
+institution (Fig. 10).
+Sy
+nt
+
+F
+
+u
+
+t
+
+u
+
+r
+
+e
+
+P
+
+r
+
+e
+
+s
+
+e
+
+n
+
+t
+
+P
+
+a
+
+s
+
+t
+
+tic
+
+• Employs time
+• Builds on the past
+• Projects the future
+• Occupies the present
+• Part analytic,
+part synthetic
+
+ly
+
+Creation Process
+
+he
+tic
+
+9
+
+11
+
+Form Making
+• Direct action
+• Application of pattern
+• Simple; not complex
+
+Analytic
+
+Synthetic
+
+Making
+Context
+
+P a s t
+
+10
+
+10
+
+Product
+
+As our civilizations have matured, our understanding of creation and production
+processes have deepened (Fig. 11). Today,
+we need another axis in our diagram to
+describe them. The new axis distinguishes
+the abstract from the real, establishing the
+abstract as the realm in which the specification for an artifact or institution is created.
+"Making", today, is most often a real,
+synthetic process of production, divorced
+from both analytic and abstract requirements.
+
+Artifact/Institution
+
+P r e s e n t
+M a t s u r i
+
+F u t u r e
+
+No matter how we create forms, however,
+we evaluate their quality. On the left of the
+slide, I have begun a model for evaluating
+quality. At the level of "making", manufacturing, or construction, we evaluate quality as
+craftsmanship.
+
+Abstract
+
+Making
+• Real vs. abstract
+• Converts resource to
+product
+Quality measured by
+Craftsmanship
+• reliability
+• accuracy
+• perfection
+
+Insight
+
+Idea
+
+Synthetic
+
+Analytic
+
+Making
+Context
+Craftsmanship
+
+11
+
+P a s t
+
+9
+
+Product
+
+Artifact/Institution
+P r e s e n t
+M a t s u r i
+
+F u t u r e
+
+Real
+
+Abstract
+
+Designing
+Separates specification
+from production
+Quality measured by
+Details
+• performance
+• human factors
+• cultural fit
+
+Insight
+
+Idea
+
+Synthetic
+
+Analytic
+
+Context
+
+Product
+
+Artifact/Institution
+
+Details
+Craftsmanship
+
+P a s t
+
+8
+
+P r e s e n t
+M a t s u r i
+
+F u t u r e
+
+Real
+
+Abstract
+
+Planning
+Separates conception
+from specification
+
+Insight
+
+Quality measured by
+Concept
+• wholeness
+• thoroughness
+• innovativeness
+
+Planning
+
+Idea
+
+Concept
+Designing
+Synthetic
+
+Analytic
+
+Specification
+Making
+
+Concept
+
+Context
+Craftsmanship
+
+P a s t
+
+Artifact/Institution
+
+7
+
+P r e s e n t
+M a t s u r i
+
+F u t u r e
+
+Real
+
+Abstract
+
+Metaplanning
+
+Metaplanning
+Separates definition
+from conception
+
+Insight
+
+Project
+Planning
+
+Idea
+
+Concept
+Designing
+Synthetic
+
+Analytic
+
+Specification
+Making
+
+y
+rit
+eg ity
+r
+nt
+l I teg
+ta
+n
+cie t I
+So duc
+o
+Pr
+
+So
+Pr ciet
+od al
+uc Int
+t I
+e
+nt grit
+eg
+y
+rit
+y
+
+Quality measured by
+Integrity
+• appropriateness
+• cohesiveness
+• support for values
+
+Concept
+
+Context
+
+Product
+
+Artifact/Institution
+
+Details
+
+Craftsmanship
+
+14
+
+P a s t
+
+6
+
+P r e s e n t
+M a t s u r i
+Real
+
+Modern thinking adds another layer to the
+creation process – planning or, as it is
+sometimes called, design planning (Fig. 13).
+Planning separates the creation of concepts
+from the creation of details, so that concepts
+can be developed more thoroughly at a
+higher level of abstraction. Planning is done
+most effectively by multi-discipline teams,
+led by designers trained in planning
+methodology.
+The quality of planning is measured in the
+concept. A good concept exhibits significant
+holistic and innovative characteristics, and is
+qualitatively superior to conventional
+products.
+
+Product
+
+Details
+
+13
+
+Quality produced in the designing process is
+measured in the details of the product.
+These are aspects of its performance,
+human factors and cultural fit. The business
+community is now beginning to realize how
+important these forms of quality are to the
+success of products.
+
+Designing
+
+Specification
+Making
+
+12
+
+The appearance of the design specialist
+separated the act of specifying an artifact or
+institution from the act of producing it.
+Designing is in the realm of the abstract
+(Fig. 12). When we design, we extract
+insight from the facts and observations of
+context, convert insights to ideas and give
+them form through a specification passed to
+the making process.
+
+F u t u r e
+
+More a subject of research today than an
+established phase of the creation process,
+metaplanning operates at the highest level
+of abstraction (Fig. 14). It separates the
+definition of the project from the planning
+and designing processes. Metaplanning
+focuses attention on resources, methods
+and the issues to be addressed in a project.
+Because the purview of metaplanning is
+broad, its effect on quality can be pervasive.
+Quality resulting from action at this level can
+be measured in the integrity of a product: its
+appropriateness, cohesiveness and support
+for values, both of the organization for which
+it was created and the society in which it is
+to be used.
+
+Quality Pyramid
+• Evaluation model
+• Process model
+So
+Pr ciet
+od al
+uc Int
+t I
+e
+nt grit
+eg
+y
+rit
+y
+
+y
+rit
+eg ity
+r
+nt
+l I teg
+ta
+n
+cie t I
+So duc
+o
+Pr
+
+Concept
+Details
+
+The model for measuring quality is what I
+call the Quality Pyramid (Fig. 15). It is both
+a model for thinking about quality beyond
+craftsmanship, and a model that reflects the
+sophistication possible in the creation
+process. Each phase of the creation
+process finds its place in the harmony of the
+model.
+
+Craftsmanship
+
+15
+
+5
+
+Tension Filters
+
+Societ y
+
+• Condition thinking
+• Determine priorities
+• Influence goals
+
+Com
+
+petition
+
+Specialty
+
+Self
+
+Coo
+
+p e ra tion
+
+Com
+
+16
+
+monality
+
+4
+
+Self - Society
+Societ y
+
+• Individual - group
+• Personal rights responsibility to society
+
+Self
+
+17
+
+3
+
+Competition Cooperation
+
+Com
+
+petition
+
+• Individual - individual
+• Culture - culture
+• Selfishness selflessness
+
+Coo
+
+18
+
+2
+
+p e ra tion
+
+The sometimes-contrasting requirements of
+nature and society are not the only requirements creating tensions for design.
+Designers today face questions of value that
+will influence our approach to the future. I
+call them "tensions" and cast them as
+polarities or "spectrum" issues because
+thinking in this way is easy to grasp and
+apply (Fig. 16).
+These "tensions" act as filters on our
+thinking; controls on our use of the design
+process, particularly at the metaplanning
+and planning levels. I will introduce three as
+food for our thinking about responsible
+design for the future.
+The first tension is between self and society
+(Fig. 17). As world populations inexorably
+increase, our environment continues to
+degrade, and the gap widens between the
+world’s wealthy and poor, we must seriously
+consider how our efforts contribute to
+individuals’ views of themselves and society.
+It is important for individuals to value and
+improve themselves, but it is equally
+important for individuals to value and
+improve society.
+As our nations build the new global
+economy, we will hear over and over again
+the importance of successful competition.
+Less frequently heard, but perhaps much
+more important, will be the importance of
+cooperation (Fig. 18). We must ask
+ourselves how we can contribute to finding
+balance between these two powerful ideas.
+Design can have subtle influence at many
+levels – from children’s toys and games to
+national policies.
+
+Specialty Commonality
+
+Specialty
+
+• Stand out - blend in
+• Mass - custom
+• Homogeneity heterogeneity
+
+Com
+
+19
+
+monality
+
+1
+
+Opportunity and
+Responsibility
+
+Specialty
+y
+rit
+eg rity
+nt
+l I eg
+ta Int
+cie ct
+So odu
+Pr
+
+So
+Pr cie
+od tal
+uc In
+t I te
+nt gri
+eg ty
+rit
+y
+
+Society needs design
+Design needs maturity
+• Research
+• Education
+• Communication
+
+Concept
+Details
+
+Craftsmanship
+
+Com
+
+20
+
+Electronic media are homogenizing our
+cultures. While it is comforting to find
+familiar artifacts and institutions as we
+travel, it is dismaying to watch the delightful
+differences of old and wonderful cultures
+disappear. We gain significantly through
+communication and the creation of commonalities, but we must find ways to recognize
+and celebrate the things that make our
+cultures special (Fig. 19).
+
+0
+
+monality
+
+Design in its various professional forms is
+entering a time of great attention. There will
+be both excitement and anxiety under the
+spotlight.
+Society needs design – and it is discovering
+that.
+But design needs maturity. We are illprepared for the attention coming our way. If
+we are to assume the responsibility we have
+so often requested, we must devote serious
+effort to building the reservoir of knowledge
+necessary to assume it (Fig. 20).
+
+It is time for the design disciplines to grow up; time to commit human and financial resources
+to institutions for design. We need centers for research, better educational curricula and a
+range of channels for sharing knowledge. We must build rapidly what other disciplines have
+built before us.
+If we do so, I am confident that the next century will a golden one for design.
+
+
