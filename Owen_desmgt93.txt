@@ -1,0 +1,1706 @@
+Institute of Design
+Illinois Institute of Technology
+Chicago, Illinois U.S.A
+
+A Critical Role for Design
+Technology
+Charles L. Owen
+Distinguished Professor of Design
+(Keynote article, Design Management Journal, Design Technology Issue
+(Spring 1993): pp. 10-18)
+A phenomenon very apparent to the American businessman, as well as to
+any lay observer, is the wave of "restructuring" passing through the country.
+It is a fact of life for seemingly all large companies, and through ripple
+effects, it affects all but those companies most finely tuned to the new
+realities of the marketplace. Less apparent, but of greater portent, is the
+implicit recognition that new rules are taking form for how the games of
+business will be played. As the recession abates, and revitalized industries
+emerge, they will not return to the ways of the past; they will seek a
+development philosophy for their products and services in tune with the
+times. Of the factors involved in this product/service philosophy, design will
+be one of the most important, as the growing interest of the business press
+makes that very clear. There is little question that design will play a major
+role in the kind of economic world on the horizon. The question is, What
+role will that be?
+
+uc
+od
+
+gr
+
+Concept
+
+ity
+
+Details
+
+The issue really involves "quality", and what is now being termed "product
+integrity". To a great extent, the present opportunity for design is what it is
+because of the now-general concern for quality. Most customers equate
+quality with craftsmanship, an observable attribute that has been drummed
+into everyone’s consciousness for at least a decade. U.S. companies and
+others who needed it learned the craftsmanship lesson well in the last ten
+years, and products worldwide are significantly more competitive insofar as
+construction, reliability and other aspects of craftsmanship are concerned.
+
+te
+
+Pr
+
+In
+
+t
+
+The Quality
+Pyramid
+
+Craftsmanship
+Figure 1. The Design Core of the
+Quality Pyramid reveals three levels
+at which design can contribute to the
+attainment of product quality.
+
+The lesson, however, does not stop with craftsmanship. Quality is a hierarchical concept. There are higher levels of quality than craftsmanship, and
+quality principles can better be explained in terms of a "Quality Pyramid"
+(see Figure 1). Craftsmanship is the base of the design core of the pyramid.
+At the second level, quality is expressed and revealed in details. At this
+level, a better product is recognized by its better performance, easier use,
+and better fit in its cultural niche. Perceptive companies are working now to
+incorporate this understanding into their product development processes.
+Far less well understood, but probably most important of all, is the third
+level in the quality pyramid, concept. A better concept sweeps the
+competition; customers are actually willing to pay more for a conceptually
+better product. What distinguishes a better concept is its "rightness"—its
+thorough response to all the needs of its users. And in this respect, all
+users need to be considered—not just those who operate the product, but
+
+1
+
+those who distribute, sell, store, transport, maintain, repair, adapt and even
+dispose of it.
+
+uc
+
+Concept
+
+ity
+
+Details
+
+gr
+
+od
+
+te
+
+Pr
+
+In
+
+t
+
+Product Integrity
+
+Craftsmanship
+Figure 2. Product Integrity is the
+capstone and cladding of the Quality
+Pyramid. Products achieving product
+integrity generate trust and respect not
+only for product and services, but for
+the company.
+
+Beyond concept is the all-embracing idea of product integrity, the capstone
+and cladding of the quality pyramid (see Figure 2). Product integrity is a
+way of characterizing a product’s contribution to the perception of overall
+quality through its own performance, its ability to improve associated
+services and its ability to transfer approval to the company itself. Products
+that achieve product integrity do so because users’ experiences with them
+at all levels are uniformly happy ones—over and over again. In time, this
+appreciation is translated to trust and respect, distributed in equal measure
+to the product, to all the various services associated with it, and to the
+company as the entity responsible.
+Design technology exists in varying degrees for working at all levels of the
+quality pyramid. At the level of craftsmanship, there is considerable
+knowledge about how to design better products for production. Engineering
+design, value engineering, design for manufacture—all contribute to
+managing quality control. At the level of details, computer-aided design,
+concurrent engineering and computer-aided engineering now significantly
+contribute to better performance. Human factors design and interface design
+are increasingly capable of dealing with human cognitive and physiological
+design factors. And product designers and communication designers have
+effective means for tailoring function and form to social and cultural needs.
+At the third and capstone levels, the task is both more difficult and more
+important. Design for concept and product integrity is more informationintensive, more complex, and potentially more rewarding. Unfortunately,
+most companies either don’t know that design technology exists for these
+levels or confuse it with conventional R&D or market research. A common
+practice, particularly in U.S. companies, is to require assessment of the
+viability of a market before resources are committed to planning a new
+product. The effect, inevitably, is to skew new development drastically away
+from substantial innovation and toward incremental change and cautious
+evolution instead.
+
+Markets Don’t Invent;
+They Buy
+
+Markets respond to what they are offered. They don’t invent; they buy. If
+potential customers can’t be shown a new concept, they can only respond
+to problems they perceive with what they already know. Not surprisingly,
+there is almost never real innovation under this model—how can the
+customer be expected to invent the product? Without real innovation to
+show, the result of a market assessment is often that there is little or no
+market for innovation. Something for senior executives to think about is the
+successes of innovative products that were developed anyway. There are
+always some. Sharp’s Wizard is a recent example; Goodyear’s new
+Aquatred tire appears to be another. The moral of the story is that the old
+advanced-planning model is critically flawed. What is missing is a process
+for conceptualizing innovative products before the market studies.
+At the needs-satisfying levels of today’s developed societies, wants and
+needs almost never strongly stimulate new product development (as they
+did following World War II when potential customers everywhere knew what
+they were missing). Abraham Maslow’s famous hierarchy of personal needs
+postulates seven levels of need, each of which usually must be satisfied
+before the next can be addressed: physiological needs, safety and security
+needs, belongingness and love needs, esteem needs, need for selfactualization, cognitive needs, and aesthetic needs. Stable, developed
+societies tend to be at the higher levels, and their needs at all but the
+highest levels are usually well satisfied—at least well enough relative to
+2
+
+everything available that there is little innate demand for new products. New
+products at any but the most active need-levels for consumers in these
+societies must offer improvements so noticeable that they reopen concerns
+for how satisfactorily current products serve in comparison.
+Under these conditions, needs, wants and desires appear in response to
+new product offerings, rather than the other way around. The driving forces
+switch to science, technology and invention, and the most appropriate form
+of product planning is one that incorporates early conceptualization with
+strong emphases on advanced planning, design and innovation. Design
+technology for this kind of planning does exist—Structured Planning,
+developed at IIT’s Institute of Design, is an example.
+
+Design
+Technology and
+Advanced
+Planning
+
+Design is the likely touchstone for industrial success in the coming
+decades—but it will most certainly not be the "styling" traditionally employed
+at the back end of the development process. The kind of design that will
+make the difference is design at the front end. It will be conceptual design
+that employs advanced-planning task-force teams assembled from
+appropriate functional groups company-wide, computer-supported design/planning methodology, life-cycle design thinking and a commitment to
+the development and creative use of qualitative as well as quantitative
+information. If success at the expected level of competition is to be
+achieved, conceptually better products must be developed at a rate of
+delivery that is both reliable and predictable. This will enable the introduction of dependably superior products before competitors can undercut price
+and take over markets.
+This strategy is called escalator delivery. Employing it, a company does not
+rely on once-in-a-lifetime ideas and long periods of market monopoly with
+them. Instead, it professionalizes the development of concepts with product
+integrity and it regularly replaces its own successes with new ones. The
+company with escalator delivery controls its markets by controlling the introduction of industry-dominating products.
+
+New Products Await
+Better Design
+
+Surprisingly, considering the reversed roles of technology and need as
+driving forces, there is actually more technology available now than
+necessary to meet needs and desires at considerably higher levels. The
+problem is that the effective use of design trails achievements in both basic
+and applied science. It used to be that a better product only awaited better
+technology. Now, it frequently awaits better design.
+New generations of information-age products can be virtually whatever they
+are asked to be. What should they be? Global competition suggests better
+concepts. What those concepts should be is best addressed by design
+technology. A rapidly widening variety of design technology tools can be
+brought to bear on the problem. The spectrum of application ranges from
+the first questions about the goals of a project to problems of product implementation in a naive or even hostile market environment (as sometimes
+occurs in the public sector). The most crucial applications, however, are in
+that portion at the earliest stages of development. Improvement in
+performance here will significantly enhance a company’s competitive
+position in world markets filled with increasingly sophisticated concepts.
+An example of design technology developed expressly for this purpose is
+Structured Planning. It is a comprehensive process with the means to
+invigorate and extend the development model to meet new challenges. In
+the following discussion, some of its features are presented to illustrate how
+design technology can be deployed at the critical advanced-planning stage.
+3
+
+While this is not the forum to discuss Structured Planning in detail, the
+captioned figures 3 through 13 provide some idea of the forms work takes
+through key phases in the process. In what follows, there are references to
+the figures where practicable; for more elaborate treatments, see the
+Suggested Readings at the end of the article, most particularly, Design for
+Integrity.
+
+Reforming the
+Development
+Model
+
+Solution Element
+
+Title:
+
+Conventional planning for product development suffers from problems both
+of breadth and depth. The breadth problem is that too little attention is paid
+to the what question before considering the how. The conventional model
+for development too often begins with the project statement already well
+down the road of specificity. On a scale from "What should we do?" to
+"Follow this specification", it is much more likely to be near the latter than
+the former. The product probably is already in mind before the development
+process begins. It may be a response inspired by the competition’s new
+product, an idea that occurred recently to a senior executive, or just some
+new features for the current model that ought to be "upgraded".
+
+Environmental Image Mapping
+
+1/1
+
+Project
+
+Functions Fulfilled
+
+Related Solution Elements
+
+TV Command
+
+27, 29, 34, 35, 37, 38,
+41, 42, 55, 56, 57, 59,
+62, 66, 67, 82, 91, 92
+
+2. Infra Net
+3. New Senses
+c. Gesture Glove
+f. Virtual Viewer
+4. Thunder Dome
+a. Thunder-D Grip
+6. Construx
+b. Surface Pixels
+c. Shadow Cues
+
+Super-Set Solution Element
+
+None
+Sub-Set Solution Elements
+
+None
+
+Solution Element
+
+Title:
+
+Environmental Image Mapping
+
+After a set is designed
+in virtual reality using
+the Thunderdome, it is
+prepared by assembling
+basic Construx building
+elements in an arrangement that approximates
+the intended environment. The physical
+Construx elements are
+for the actors’ convenience only. Actors move
+around tables, sit in
+chairs, walk through
+doors, etc. as they would
+in a conventional set.
+
+Discussion
+
+Until now, studio productions required individualized studio sets. The entire
+concept of "studio" work was built around the idea that control of the
+environment could be optimized only on location – in a studio set. Movie and
+television sets of the past (and today) have ranged from minimal sets, little more
+than seating with controlled lighting, to mammoth, exceedingly complex and
+expensive recreations of entire environments.
+The revolution in computer processing of the last decade brings the concept of
+set to a new level of awareness. A variety of inventions, from matting techniques
+and computer-controlled movements in film making to texture mapping in
+computer graphics, have made it possible to create realistic three-dimensional
+images that combine human actors and environments constructed from data bases.
+Environmental Image
+Mapping takes
+maximum advantage of
+this capability both to
+reduce the cost and
+complexity of the sets,
+and to increase the
+flexibility and speed at
+which sets can be
+constructed and struck.
+The elements of TV
+Command’s studio
+system are designed to
+work synergistically
+with this specialized
+approach to virtual
+reality.
+
+1/2
+
+Discussion (continued)
+
+What the actors see is the skeletal Construx set with cues on surfaces wherever
+they need them – on the floor, walls, desks – any flat surface. The cues, produced
+with Shadow Cues and produced with Surface Pixels, are invisible to the
+television audience.
+What the audience sees is quite another picture. From the studio’s data bases,
+detailed images are mapped into a three-dimensional model of the set maintained
+in the computer. This model of the desired environment (for example the living
+room of a contemporary home) is integrated with the studio cameras’ images of
+the actors on the live set. The result is an image for transmission that looks as if
+the actors are on location.
+Essential Features
+
+• Speeds the construction of sets and programs.
+• Eliminates the high cost of authentic sets through the use of skeletal "for actors
+only" structures.
+• Extends possibilities for program settings to the entire range of environments
+capturable as images in visual data bases.
+• Exploits virtual reality processes to enable the same image data to be used for
+design and finished productions.
+
+Figure 3. The end product of Structured Planning is a Plan, with a number of Solution Elements, each descibing ideas and specifying
+their essential features. The Plan is the "Problem Statement" for the detail design work next in the development process. This example of a
+Solution Element (and other examples to follow) is from a demonstration of how Sony Corporation might implement Structured Planning.
+The project considers television production systems for the turn of the century.
+
+Saddling the development team with this kind of start is like setting a
+record-attempting mountaineering team on a trek up the wrong mountain.
+The team may do a splendid job of finding the best way to the top, but that
+will soon be forgotten when a higher peak comes into view. Real effort must
+
+4
+
+TV Command
+Design a television and information
+system that incorporates studio and
+field operations capable of addressing advancements in technology
+and changes in society.
+Figure 4. A Project Statement begins
+the project with a simple description of
+the project’s primary goal stated in operational rather than noun-name terms.
+
+be spent on developing a good concept—just as it must be spent on turning
+a good concept into a good product. The first task of reforming the
+development model is to provide a focus for concept development.
+The depth problem concerns finding the potential users of a product and
+determining their needs. We hear much today about listening to the
+"customer", but Unfortunately, what is meant by "customer" is usually far too
+shallow a characterization. These customers are most likely just the
+purchasers and operators of the product. Good design requires a much
+deeper look than that. Users properly include everyone who lays a hand on
+the product, or in any other way has something to do with it that might be
+affected by its design.
+
+Defining Statement
+
+Issue Topic:
+
+Storage and Retrieval
+
+1
+
+Originator
+
+Question at Issue
+
+Eduardo Sciammarella
+
+What provision should be made for the storage of
+equipment and its expedient retrieval?
+
+Project
+
+TV Command
+
+Position
+
+Constraint, Objective or Directive
+
+Storage and retrieval elements must prevent
+damage to equipment and optimize access, both in
+the field and in the studio.
+
+Constraint
+Background and Arguments
+
+There are several situations in which proper storage and fast retrieval of equipment
+are critical to operations. Field operations are a good example. Operations in the
+field, by definition, imply changing environments that place priority on the
+protection of equipment -- and, thus, storage and retrieval. Design for retrieval
+becomes important when time constraints are considered. It is absolutely necessary,
+for the continuous flow of information, to have the right equipment in place, on
+time.
+Transport is another mode of operation that places equipment in potentially
+damaging situations. In the field, the need for care in transport and fast return to
+action is obvious. In the studio, relative permanence of location is deceptive.
+Equipment is moved to the studio, between studios, within a studio as changing
+setups demand, and in and out of use as equipment is changed or replaced.
+The nature of the technologies used in for the production and transmission of
+information dictates the use of thoughtful strategies to protect fragile systems.
+Sound collecting systems can be easily broken; light collecting systems require
+clean optics -- unscratched and unfouled by destructive environments; electronic
+systems must be protected from heat, cold and shock. Field use requires special
+attention to storage and retrieval. Studio use is less traumatic, but equipment will
+be moved, and thought must be given to its protection.
+
+Alternative Positions
+
+• Equipment must be designed to be self-protecting so that it does not require
+separate storage elements.
+• Individualized storage and retrieval elements must be designed to meet special
+equipment needs in the field and in the studio.
+
+Figure 5. Defining Statements extend the project statement and help to bound the problem.
+This Constraint sets goals for finding good fit for "storage and retrieval".
+
+Breadth
+
+Structured Planning deals with the breadth problem directly by separating
+the concept and detail phases of the development process. In doing so, it
+forces serious consideration of what the product should be; allows extensive
+creative thinking at an early, formative level; and encourages broad participation from a range of centers of expertise. The result of a Structured
+Planning study is a "Plan" made up of a number of "Solution Elements",
+each with a description and discussion of features (see Figure 3). The
+Solution Elements may be physical, procedural or organizational. That is to
+say, they may be hardware (mechanisms, system components, form
+treatments, human-factored configurations), software (computer programs,
+communications, operation manuals, interfaces), or "linkware" (organization
+
+5
+
+structures, event schedules, service plans, policy descriptions). Where
+appropriate, they are given visual form with fast prototyping software, such
+as the Alias software used in the Sony project figured here.
+In concert, the elements of a plan make up a comprehensive description of
+a concept that can be criticized and modified before time and resources
+have been committed to engineering or producing anything. Issues of
+purpose, benefits, desired qualities, operational characteristics, appropriate
+technologies and a host of other important topics can be explored at a level
+sufficiently above the detail design level that thinking can easily change as
+ideas evolve. Castles in the air are easier to demolish and rebuild than
+castles on the ground.
+
+TV Command
+Studio Operations
+Pre-Production
+Development
+
+Assembling Designing
+
+Production
+
+Post-Production
+
+Arrangement
+
+Placing
+
+Designate
+Display
+Identify
+environment environment elements
+Install
+Display cues Instruct user
+environment
+Communicate Instruct
+Support
+directions
+element
+subsystems
+Mobilize
+Relay
+element
+visuals/cues Select
+imagery
+Guide
+Manipulate element
+Collect
+images
+Secure
+components Read
+element
+Alter
+Input
+parameters
+Relay
+Monitor
+performance
+Connect
+interfaces
+
+Management
+
+Transportation
+
+Production
+
+Edit
+
+Installing
+
+Rehearsing
+
+Identify line
+Identify
+source
+Provide
+pathway
+Provide
+connection
+Identify
+connection
+Monitor
+connection
+
+Determine
+Record/store Support
+Display cues
+components Receive/
+feedback
+Display shot
+Determine
+transmit
+Allow
+camera
+transmission Display script
+Isolate &
+of information Display
+Determine
+focus sound
+equipment
+lighting
+Isolate
+Isolate &
+position
+Set
+focus image feedback
+Separate
+parameters Provide links Suport
+audio/
+media
+Communicate
+operator
+directions
+Support
+Move
+movement
+Simulate
+camera/lens
+Communicate
+reality
+directions
+Move
+Document
+Speak
+boom/mic
+Monitor
+simulation
+Listen
+shot
+Communicate
+directions
+Input
+Monitor
+Practice
+script
+Gesture
+human
+Monitor
+movements
+equipment
+Finalize
+position
+decisions
+
+Route
+lines
+Connect
+equipment
+
+Field Operations
+
+Recording
+
+Participating Conducting
+
+Cutting
+Mixing
+
+Striking
+
+Storing
+
+Veil
+Place/
+equipment
+displace
+Enhancing
+elements
+Communicate
+position
+Promote
+Dubbing
+safety
+Instruct user
+Logging
+Identify
+Synching Organize
+elements
+equipment
+Retrieve
+Access
+elements
+equipment
+Manage
+plan
+
+Maintaining
+
+Repairing
+
+Filter
+Alert user
+environment Locate
+Monitor
+malfunction
+status
+Address
+Alert user
+damage
+Instruct user Expedite
+repair
+Confirm
+Access
+repair
+equipment
+Perform
+maintenance Confirm
+malfunction
+Determine
+need
+Access
+malfunction
+Correct
+malfunction
+
+Transporting Moving
+
+Storing
+
+Setting-Up
+
+Secure
+elements
+Reduce
+damage
+
+Secure
+elements
+Reduce
+damage
+
+Display
+equipment
+position
+Document
+contents
+Organize
+placement
+Guide
+elements
+Deliver
+elements
+Speed
+delivery
+
+Display
+equipment
+position
+Document
+contents
+Organize
+placement
+Guide
+element
+
+Load/unload
+Organize
+equipment
+Secure
+elements
+
+Instruct user Record/store Assemble/
+Access shot information disassemble
+elements
+Transmit/
+Stabilize
+receive
+Retrieve
+equipment
+information elements
+Link
+Protect user Load/unload
+information
+and power
+Protect
+Organize
+equipment
+equipment
+
+Retrieve
+element
+Manage
+equipment
+
+Shooting
+
+Striking
+
+Assemble/
+disassemble Control
+elements
+unit
+Transport
+unit
+
+Mobilize
+elements
+
+Mobilize
+elements
+
+Adjust
+components
+
+Figure 6. Action Analysis produces a Function Structure from a top-down analysis of a project’s Modes of behavior and the Activities
+within them. In this example, Modes are in bold, Activities are in bold italic (at the base of the tree), and system and user Functions are in
+columns under the Activities. The Edit Submode (outlined) was not considered further in this project.
+
+Depth
+
+The depth problem is addressed by a phase of Structured Planning called
+Action Analysis. Its purpose is to establish what the product, system,
+service or other entity being planned must do (actions labeled Functions);
+to gain insight about what happens as Functions are performed (observations recorded in documents called Design Factors); and to collect
+on-the-spot ideas (Speculations for how to use the insights inventively).
+In the normal development process, the search for information usually
+reaches only the primary users of the product—those who own it and
+operate it for its intended use. Those it misses are the very users who could
+reveal many of the needs that should be considered in the product’s design.
+They are the many secondary and auxiliary users of the product—those
+who make it, distribute it, store it, transport it, sell it, maintain it, repair it,
+remodel it, recycle it or retire it. Through the eyes of each of these "users",
+a product looks radically different. Each sees it in terms of the Functions he
+6
+
+or she has to perform with it, and each viewpoint can contribute insights to
+the development of a better concept. Action Analysis directs information
+collecting through the top-down creation of a Function Structure (see Figure
+6). This tree-building process assures that a full range of users will be
+considered and deep coverage will be given to their needs.
+A Function Structure is a three-level hierarchy topped with the project label
+and successively layered below with Modes of operation, Activities and,
+finally, Functions. Modes of operation are the major kinds of behavior
+alluded to above—maintenance, repair, retirement, etc.—along with "use",
+the only mode frequently considered. Activities are the sets of actions users
+engage in to accomplish the tasks required by the Modes. The actions
+performed by users and system during an Activity are recorded as
+Functions.
+Under analysis (see Figure 7), an Activity comes to life as a "scene" in a
+play. Users are the players, system elements are the props, and environmental elements make up the set. As an analyst plays out a scene, the
+B
+Action Analysis
+
+Activity/Event:
+
+Recording
+
+Design Factor
+
+2
+
+Selective Filtration
+
+14
+
+Scenario
+
+Originator
+
+Source/s
+
+Associated Functions
+
+Cameras and microphones follow the action of a program segment being recorded for a part of a special
+show. The studio set is the scene for the action; events
+are directed from the control room.
+
+Eduardo Sciammarella
+
+1. Personal observation
+
+Project
+
+Isolate and focus sound
+Isolate and focus image
+
+2. Interview, staff CBS
+Chicago TV Affiliate,
+September 15, 1991.
+
+Project
+
+TV Command
+
+TV Command
+
+Mode
+
+Mode
+
+Production
+
+A
+
+Title:
+
+Originator
+
+Eduardo Sciammarella
+
+A
+
+Production
+
+Users
+
+System Components
+
+Environmental Components
+
+Activities
+
+Actors, Performers
+Camera operators
+Sound operators
+Floor manager, Director
+Stage hands
+
+Cameras
+Stands, Cranes, Tripods
+Tracks
+Microphones, Booms
+Lights
+Headphones, Headsets
+
+Flats, Sets, Props
+Air condition
+Personnel, Operators
+Environmental noise
+Studio floor elements
+
+Recording
+
+System Functions
+
+Associated Design Factors
+
+Record/store information
+Receive and transmit
+Isolate and focus sound
+Isolate and focus image
+Provide communication
+links
+
+Remote Digital Storage
+Selective Filtration
+Selective Filtration
+Unnecessary Linkages Confuse
+
+User Functions
+
+Associated Design Factors
+
+Move camera/lens
+Move boom/microphone
+Communicate directions
+
+Limited Operator Mobility
+Equipment Interferes with Personnel
+
+Observation
+
+Extension
+
+Because a normal studio recording event requires
+many participants and a
+wide range of equipment,
+what is intended and what
+actually takes place are
+sometimes at odds.
+
+It is the goal of the director (as well as all involved)
+to produce images and sound according to the script.
+Achieving a continuous flow of images and sound
+without error reduces costs, improves working efficiencies and produces a better final product.
+
+B
+
+There are significant variations in the way television
+programs are recorded. Some are highly-crafted, polished productions, others strive for immediacy and
+are direct and raw. Each kind of production requires
+its own controlled "filtration" of the potential actions
+of personnel and arrangements of equipment. For a highend production, a sound boom drooping into the frame
+is simply not allowable; another program might use
+such "human" errors as signatures of the show.
+Covering the entire style range, unfortunately, means
+accommodating the strictest requirements. Cameras
+must be able to move freely unobstructed by floor-laid
+cables and improperly placed equipment. Lights must
+track fluidly and maintain positions rigidly. Operators
+must move inconspicuously, without noise and without intruding shadows. Microphones must anticipate
+movement and maintain relative position without entering the frame of action. The key to all of this is
+organized communication – the right information to
+the right person at the right time.
+
+Design Strategies
+
+• Move camera/lens
+• Anticipate movements
+• Sense and signal script
+change
+
+Speculations
+
+• Equipment Cartographer
+• Shadow Cues
+• Eye Tracker
+• Surface Pixels
+
+Figure 7. The Action Analysis form is used to identify Functions and Design Factors associated with an Activity. It helps an analyst to cover an
+Activity thoroughly. A Design Factor records insights and information about Functions (Observation and Extension) along with ideas for how to use
+that knowledge (Design Strategies and Speculations). A and B keys show how documents are associated.
+
+actions of users and system can be pinpointed and recorded, either
+actually, where the Activity is observable, or intentionally, where the Activity
+will be created by the project. The result is hundreds of Functions, all of
+concern to the advanced-planning team. Successfully fulfilling them will
+ensure a high probability of success for the project.
+
+7
+
+Considerable additional depth is provided by "insights" about how the
+Functions are performed. These are recorded in Design Factor documents,
+probing, discussing and highlighting what can go wrong (or right) when a
+Function is performed. Written at the time an Activity is under scrutiny,
+these documents seek out the precious insights that trigger inventive
+product and system features. Because ideas follow insights almost hand-inhand, the Design Factor format also demands ideas for how to use the
+insight and includes them in the record as "Speculations". These ideas may
+or may not be used ultimately, but they will exist in the information base,
+captured when they were formed.
+Cross-referenced to the Functions they illuminate, Design Factors provide a
+"project memory" that is intentionally qualitative rather than quantitative. The
+format is narrative, but discussions can be supported with quantitative data
+as well as visual illustrations. This sets a style for unconstrained observation
+and explanation able to supply the rich detail frequently important to nuance
+and thorough understanding. As an archive for a project, Design Factors
+and their associated Functions constitute a project memory; by extension,
+these project memories become a corporate memory that remembers why
+things were done—and does not quit or retire.
+Building the Function Structure creates the information base. The structure
+itself, however, is fundamentally flawed for the tasks of using the
+information. For optimal use of the hundreds of Functions and Design
+Factors, a more suitable structure must be constructed from the bottom up.
+
+8
+9
+
+8
+9
+
+7
+
+7
+
+102 15
+
+15
+
+5
+
+3
+
+1
+
+5
+
+6
+
+4
+
+2
+
+103
+
+104
+3
+
+1
+
+6
+
+4
+
+2
+
+105 13
+
+12
+
+10
+
+14
+
+14
+13
+
+10
+
+12
+11
+
+Figure 8. Demonstrating a Function Network,
+this small sample shows Functions (vertices)
+as they might be linked by the RELATN program. Linked Functions have a number of solutions potentially of common interest.
+
+Structured
+Information
+
+101
+
+106 11
+Figure 9. The VTCON program finds clusters
+of Functions that are strongly interlinked.
+Because the clusters will themselves be clustered, notation denotes both level and cluster
+number (103 is level 1, cluster 3).
+
+Having insightful information in breadth and depth is necessary, but not
+sufficient. It must also be in the right place at the right time. The problem
+with information is that the more there is of it, the more difficult it is to
+organize. Given the ambitious goals of holistic, creative concepts, it is particularly important that information be juxtaposed in such a way that
+maximum synergy is generated among the ideas that come up for consideration. In other words, concept building would be best served if the
+
+8
+
+components of the proposed concept elegantly solved multiple problems,
+performed multiple functions, and did all with an economy of means. The
+elegant solution not only does things with style, it does them with a
+simplicity that belies the effort that went into its design. To bring these kinds
+of concepts into being, the advanced-planning team needs to have the right
+information when they need it, whether or not they know that they need it.
+
+101
+
+7, 8, 9
+
+102
+
+7, 9, 15
+
+105
+
+6, 13, 14
+
+103
+
+3, 4, 5, 6
+
+104
+
+1, 2, 3, 4
+
+106
+
+10, 11, 12
+
+201
+
+301
+
+In the structuring phase of Structured Planning, two computer programs,
+RELATN and VTCON, organize the information produced by Action
+Analysis. The RELATN program (see Figure 8) uses a special "measure of
+interaction" to establish links between Functions in the information base. It
+does so not by membership in a common category, the usual means for
+establishing association in a database, but by the likelihood of Functions
+being fulfilled by the same component or components of a design solution
+(the Speculations produced during the development of the Design Factors).
+
+202
+
+401
+
+203
+
+302
+
+204
+Condensation
+Clusters
+
+Conventional top-down data structures (including the Function Structure
+used in generating the Functions and Design Factors for Structured
+Planning) associate data items by their common membership in predetermined, higher level categories (for example, all Functions to do with repair
+in a "repair" category; all Functions concerned with transport in the "transportation" category). The RELATN program associates them, instead, by
+their potential for being fulfilled by the same design ideas—whatever their
+previous categorization might have been.
+
+Primary
+Clusters Functions
+
+Figure 10. The primary (lowest level)
+clusters identified in the Function Network are condensed hierarchically by
+the VTCON program to produce an
+Information Structure.
+
+701
+
+601
+
+502
+
+501
+
+401
+
+301
+
+302
+
+201 202
+
+403
+
+402
+
+203
+
+303 304
+
+305
+
+204 205 206
+
+207 208
+
+404
+
+306
+
+209
+
+210
+
+307
+
+211
+
+308
+
+212 213
+
+309
+
+310
+
+216 217
+
+214 215
+
+405
+
+218
+
+311
+
+312
+
+313
+
+219 220 221 222
+
+223
+
+224
+
+101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139
+1
+4
+9
+34
+35
+36
+38
+40
+
+9
+11
+12
+13
+14
+15
+16
+35
+36
+38
+40
+
+14
+39
+40
+
+35
+55
+
+7
+35
+
+1
+6
+34
+38
+40
+41
+
+32
+33
+34
+38
+40
+41
+45
+47
+
+37
+38
+40
+42
+45
+47
+
+42
+24
+
+72
+74
+77
+79
+80
+81
+
+76
+77
+78
+79
+80
+81
+
+75
+78
+79
+82
+83
+
+18
+23
+24
+27
+28
+
+17
+18
+31
+85
+
+58
+62
+63
+
+58
+59
+63
+
+61
+63
+
+63
+71
+
+49
+50
+51
+52
+57
+
+43
+49
+50
+51
+52
+58
+
+43
+46
+50
+
+90
+94
+96
+
+47
+48
+87
+
+19
+21
+87
+
+60
+64
+65
+
+5
+20
+69
+70
+87
+97
+
+5
+66
+70
+87
+97
+
+67
+70
+
+84
+91
+95
+
+73
+95
+
+5
+20
+68
+69
+70
+84
+88
+
+53
+68
+69
+
+20
+68
+69
+70
+86
+88
+
+69
+88
+89
+
+2
+20
+22
+68
+88
+
+8
+26
+30
+92
+
+2
+30
+93
+
+2
+3
+10
+
+25
+29
+
+Figure 11. The actual Information Structure produced by VTCON for the TV Command project. This new structure, organized from the
+bottom up, is optimized for the advanced-planning team seeking to consider the "right Functions together at the right time".
+
+9
+
+F u n c t i o n s Means
+
+Ends
+
+69 Promote safety
+
+134 Managing
+inventory
+
+221 Inventory access
+and
+control
+
+132 Transporting
+equipment
+
+220 Operations and
+logistics
+
+135 Assembling sets
+
+222 Installation
+
+88 Load/unload
+
+Ends
+
+Means
+
+End
+
+Means
+
+312 Studio environment
+and set creation
+
+53 Support movement
+68 Place/displace
+elements
+
+Means to
+
+89 Manage equipment
+What End?
+
+69 Promote safety
+2 Install environment
+20 Mobilize elements
+22 Secure elements
+
+Means to
+
+68 Place/displace
+elements
+88 Load/unload
+133 Materials handling
+
+20 Mobilize elements
+
+What End?
+
+68 Place/displace
+elements
+69 Promote safety
+70 Retrieve elements
+Means to
+
+86 Deliver elements
+88 Load/unload
+
+What End?
+
+Means/Ends
+Analysis
+
+Cluster:
+
+312
+
+Project:
+
+TV Command
+
+Figure 12. A cluster from the Information Structure (312) is subjected to Means/Ends Analysis
+to establish meaning for the structure revealed by the VTCON program. Beginning with the
+Functions at the left, clusters are given labels to express the structure’s functionality as insightfully as possible.
+
+End
+
+Means
+
+312 Studio environment
+and set creation
+
+Ends
+
+Means
+
+Modularize structural
+elements
+
+Solution
+Elements
+
+Planes and Volumes
+Limbs
+
+fo
+r What Means?
+
+Protectively store
+unused equipment
+
+Locate storage
+away from sets
+
+Surface Pixels
+
+Make equipment easy
+to store and find
+
+Storage Pockets
+Equipment Conveyor
+
+Load and unload
+effectively
+
+Move components
+efficiently
+
+Move to location
+automatically
+
+Establish equipment
+location system
+
+Power Jockey
+Infra Net
+Equipment
+Cartographer
+
+fo
+
+End
+
+Means
+
+Construx
+
+Minimize assembly/
+disassembly time
+End
+
+Ends
+
+r What Means?
+
+Project:
+
+TV Command
+
+Ends/Means
+Synthesis
+
+End
+
+r What Means?
+
+312
+
+fo
+
+Cluster:
+
+Figure 13. Using Ends/Means Synthesis, a description of system need taken from the results of
+the Means/Ends Analysis is subjected to idea generation at successively more refined layers.
+The process ends when specific Solution Elements for all needs have been invented or
+selected, refined and modified from Speculations. These are then evaluated against the
+Functions from the original Means/Ends Analysis and written up as elements of the Plan.
+
+10
+
+The VTCON program (see Figure 9) operates on the network of linked
+Functions produced by the RELATN program. It first finds clusters of highly
+interlinked Functions and then, looking at links crossing cluster boundaries
+and Functions common to more than one cluster, "condenses" the clusters
+to larger, inclusive clusters at higher levels until a final level is reached at
+which all Functions are represented (see Figure 10). This hierarchical
+Information Structure (see Figure 11), created from the bottom up, is the
+optimal organization to support the synthesis activities of the advancedplanning team.
+
+Conclusions and
+Recommendations
+
+Design technology has many roles—all important—to play in the evolving
+new product development process. Most critical, however, is its role at the
+beginning because it can be so influential and effective there. Toward implementation in this role, the following recommendations are guidelines:
+• As policy, strengthen the use of design technology at all levels of the
+Quality Pyramid. Quality will be measured by more than just craftsmanship
+in the competition ahead.
+• Embrace product integrity as an umbrella goal for product, system and
+service attainment. As an overarching idea, it directs all aspects of producer/consumer/observer relations and places lesser goals in proper
+perspective.
+• Separate conceptual levels of designing from detail levels of designing—in
+the same way that strategy is separated from tactics. Freed by the
+separation, the concept development process can be reframed as a
+"task-force" activity.
+• Prepare an initially small number of design-trained staff as leaders for
+advanced-planning teams. Training in the skills necessary for creative team
+work and the design technology for information-intensive planning will
+enable this nucleus group to transfer the technology in the process of using
+it.
+• Periodically commission compact, interdisciplinary, advanced-planning
+teams of selectees, on loan from appropriate functional groups, with a
+nucleus designer as leader to conceptualize "products after next". When
+their projects are completed, these team members will be the ideal
+champions in their specialty areas for the detail development to follow.
+• Treat selection for an advanced-planning team as an award for creative,
+team-supportive service, and extend it progressively to the widest range of
+employees possible. Through participation on advanced-planning teams, a
+cadre of knowledgeable personnel experienced in creative planning will be
+built up to institute the concepts throughout the corporate culture.
+• When enough projects have beeb completed to justify it, establish an
+information base to make the accumulated knowledge available to future
+teams. As the level of training extends through the company, entries to the
+information base should be sought across the spectrum of corporate associations with products, services and users. Information generated at these
+points of contact is the means for instituting life-cycle design practices that
+can influence new product development as well as old product revision and
+upgrade.
+Design technology is no longer the plaything of academicians; it is a fact of
+business. Industry is now entering an era in which those who understand
+11
+
+and use it effectively will win; those who do not will lose. Product-integrity
+quality must be the standard. The goal should be planning that can achieve
+it—reliably and predictably—on an escalator delivery schedule.
+
+Suggested
+Readings
+
+Owen, Charles. Methodology of Project Phoenix: Structured Planning (in
+Japanese, translated by Akira Harada). Industrial Design [Japan], Special
+Feature 3: Research Papers, No. 155 (October 1991): pp. 38-46.
+Owen, Charles. Product Integrity by Design. In Colloque "Design,
+Matériaux et Environnement". Proceedings of the Recontres Internationales du Design et de l’Industrie, pp. 135-140. Toulon, France: Promo
+Design, 1991. Published also in: Design Processes Newsletter Vol. 4, No.
+1 (1991): pp. 7-9, 11; and Design Recherche [France] No. 3 (February
+1993): pp. 5-10.
+Owen, Charles. Context for Creativity. Design Studies. [England] Vol. 13,
+No. 3 (July 1992): pp. 216-228. Published also in Design Processes
+Newsletter Vol. 4, No. 4 (1992): pp. 1-6.
+Owen, Charles, editor. House of the Future. Chicago, IL: Institute of
+Design Communications Center, Illinois Institute of Technology, 1984.
+Owen, Charles, editor. Project Phoenix: Macro-Design Proposals for
+Confronting Global Warming. Chicago, IL: Institute of Design Communications Center, Illinois Institute of Technology, 1990.
+Owen, Charles, editor. Design for Integrity. Chicago, IL: Institute of Design
+Communications Center, Illinois Institute of Technology, 1993.
+
+12
+
+
